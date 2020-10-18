@@ -1,6 +1,6 @@
 # fibonacci-calculator
-Here is small Fibonacci calculator.
+Here is Fibonacci calculator.
 
-Made using python.
+Made using python language.
 
-I hope this will help you in your homework or project.
+I hope this will absolutely help you in your homework or project.
